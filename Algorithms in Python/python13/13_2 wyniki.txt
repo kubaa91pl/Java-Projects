@@ -1,0 +1,553 @@
+Problem Hetmana
+Rozmiar planszy: 2
+Roziwazanie 1
+. H
+H .
+
+Rozwiazanie 2
+H .
+. H
+
+Rozmiar 3:
+Rozwiazaie 1
+H . .
+. H .
+. . H
+
+Rozwiazaie 2
+. . H
+. H .
+H . .
+
+
+Rozmiar planszy: 4
+Rozwi¹zanie 1
+.  .  H  .  
+H  .  .  .  
+.  .  .  H  
+.  H  .  .  
+
+Rozmiar planszy: 4
+Rozwi¹zanie 2
+.  H  .  .  
+.  .  .  H  
+H  .  .  .  
+.  .  H  .  
+
+Rozmiar planszy: 5
+Rozwi¹zanie 1
+H  .  .  .  .  
+.  .  .  H  .  
+.  H  .  .  .  
+.  .  .  .  H  
+.  .  H  .  .  
+
+Rozmiar planszy: 5
+Rozwi¹zanie 2
+H  .  .  .  .  
+.  .  H  .  .  
+.  .  .  .  H  
+.  H  .  .  .  
+.  .  .  H  .  
+
+Rozmiar planszy: 5
+Rozwi¹zanie 3
+.  .  H  .  .  
+H  .  .  .  .  
+.  .  .  H  .  
+.  H  .  .  .  
+.  .  .  .  H  
+
+Rozmiar planszy: 5
+Rozwi¹zanie 4
+.  .  .  H  .  
+H  .  .  .  .  
+.  .  H  .  .  
+.  .  .  .  H  
+.  H  .  .  .  
+
+Rozmiar planszy: 5
+Rozwi¹zanie 5
+.  H  .  .  .  
+.  .  .  H  .  
+H  .  .  .  .  
+.  .  H  .  .  
+.  .  .  .  H  
+
+Rozmiar planszy: 5
+Rozwi¹zanie 6
+.  .  .  .  H  
+.  .  H  .  .  
+H  .  .  .  .  
+.  .  .  H  .  
+.  H  .  .  .  
+
+Rozmiar planszy: 5
+Rozwi¹zanie 7
+.  H  .  .  .  
+.  .  .  .  H  
+.  .  H  .  .  
+H  .  .  .  .  
+.  .  .  H  .  
+
+Rozmiar planszy: 5
+Rozwi¹zanie 8
+.  .  .  .  H  
+.  H  .  .  .  
+.  .  .  H  .  
+H  .  .  .  .  
+.  .  H  .  .  
+
+Rozmiar planszy: 5
+Rozwi¹zanie 9
+.  .  .  H  .  
+.  H  .  .  .  
+.  .  .  .  H  
+.  .  H  .  .  
+H  .  .  .  .  
+
+Rozmiar planszy: 5
+Rozwi¹zanie 10
+.  .  H  .  .  
+.  .  .  .  H  
+.  H  .  .  .  
+.  .  .  H  .  
+H  .  .  .  .  
+
+Rozmiar planszy: 6
+Rozwi¹zanie 1
+.  .  .  H  .  .  
+H  .  .  .  .  .  
+.  .  .  .  H  .  
+.  H  .  .  .  .  
+.  .  .  .  .  H  
+.  .  H  .  .  .  
+
+Rozmiar planszy: 6
+Rozwi¹zanie 2
+.  .  .  .  H  .  
+.  .  H  .  .  .  
+H  .  .  .  .  .  
+.  .  .  .  .  H  
+.  .  .  H  .  .  
+.  H  .  .  .  .  
+
+Rozmiar planszy: 6
+Rozwi¹zanie 3
+.  H  .  .  .  .  
+.  .  .  H  .  .  
+.  .  .  .  .  H  
+H  .  .  .  .  .  
+.  .  H  .  .  .  
+.  .  .  .  H  .  
+
+Rozmiar planszy: 6
+Rozwi¹zanie 4
+.  .  H  .  .  .  
+.  .  .  .  .  H  
+.  H  .  .  .  .  
+.  .  .  .  H  .  
+H  .  .  .  .  .  
+.  .  .  H  .  .  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 1
+H  .  .  .  .  .  .  
+.  .  .  .  H  .  .  
+.  H  .  .  .  .  .  
+.  .  .  .  .  H  .  
+.  .  H  .  .  .  .  
+.  .  .  .  .  .  H  
+.  .  .  H  .  .  .  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 2
+H  .  .  .  .  .  .  
+.  .  .  .  .  H  .  
+.  .  .  H  .  .  .  
+.  H  .  .  .  .  .  
+.  .  .  .  .  .  H  
+.  .  .  .  H  .  .  
+.  .  H  .  .  .  .  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 3
+H  .  .  .  .  .  .  
+.  .  H  .  .  .  .  
+.  .  .  .  H  .  .  
+.  .  .  .  .  .  H  
+.  H  .  .  .  .  .  
+.  .  .  H  .  .  .  
+.  .  .  .  .  H  .  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 4
+H  .  .  .  .  .  .  
+.  .  .  H  .  .  .  
+.  .  .  .  .  .  H  
+.  .  H  .  .  .  .  
+.  .  .  .  .  H  .  
+.  H  .  .  .  .  .  
+.  .  .  .  H  .  .  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 5
+.  .  H  .  .  .  .  
+H  .  .  .  .  .  .  
+.  .  .  .  .  H  .  
+.  H  .  .  .  .  .  
+.  .  .  .  H  .  .  
+.  .  .  .  .  .  H  
+.  .  .  H  .  .  .  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 6
+.  .  .  H  .  .  .  
+H  .  .  .  .  .  .  
+.  .  .  .  H  .  .  
+.  H  .  .  .  .  .  
+.  .  .  .  .  H  .  
+.  .  H  .  .  .  .  
+.  .  .  .  .  .  H  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 7
+.  .  H  .  .  .  .  
+H  .  .  .  .  .  .  
+.  .  .  .  .  H  .  
+.  .  .  H  .  .  .  
+.  H  .  .  .  .  .  
+.  .  .  .  .  .  H  
+.  .  .  .  H  .  .  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 8
+.  .  .  H  .  .  .  
+H  .  .  .  .  .  .  
+.  .  H  .  .  .  .  
+.  .  .  .  .  H  .  
+.  H  .  .  .  .  .  
+.  .  .  .  .  .  H  
+.  .  .  .  H  .  .  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 9
+.  .  .  .  H  .  .  
+H  .  .  .  .  .  .  
+.  .  .  .  .  H  .  
+.  .  .  H  .  .  .  
+.  H  .  .  .  .  .  
+.  .  .  .  .  .  H  
+.  .  H  .  .  .  .  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 10
+.  .  .  .  .  H  .  
+H  .  .  .  .  .  .  
+.  .  H  .  .  .  .  
+.  .  .  .  H  .  .  
+.  .  .  .  .  .  H  
+.  H  .  .  .  .  .  
+.  .  .  H  .  .  .  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 11
+.  .  .  .  H  .  .  
+H  .  .  .  .  .  .  
+.  .  .  H  .  .  .  
+.  .  .  .  .  .  H  
+.  .  H  .  .  .  .  
+.  .  .  .  .  H  .  
+.  H  .  .  .  .  .  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 12
+.  H  .  .  .  .  .  
+.  .  .  H  .  .  .  
+H  .  .  .  .  .  .  
+.  .  .  .  .  .  H  
+.  .  .  .  H  .  .  
+.  .  H  .  .  .  .  
+.  .  .  .  .  H  .  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 13
+.  H  .  .  .  .  .  
+.  .  .  .  H  .  .  
+H  .  .  .  .  .  .  
+.  .  .  H  .  .  .  
+.  .  .  .  .  .  H  
+.  .  H  .  .  .  .  
+.  .  .  .  .  H  .  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 14
+.  .  .  .  .  .  H  
+.  .  .  H  .  .  .  
+H  .  .  .  .  .  .  
+.  .  .  .  H  .  .  
+.  H  .  .  .  .  .  
+.  .  .  .  .  H  .  
+.  .  H  .  .  .  .  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 15
+.  .  .  .  H  .  .  
+.  .  H  .  .  .  .  
+H  .  .  .  .  .  .  
+.  .  .  .  .  H  .  
+.  .  .  H  .  .  .  
+.  H  .  .  .  .  .  
+.  .  .  .  .  .  H  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 16
+.  .  .  .  .  H  .  
+.  .  H  .  .  .  .  
+H  .  .  .  .  .  .  
+.  .  .  H  .  .  .  
+.  .  .  .  .  .  H  
+.  .  .  .  H  .  .  
+.  H  .  .  .  .  .  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 17
+.  .  .  H  .  .  .  
+.  .  .  .  .  H  .  
+H  .  .  .  .  .  .  
+.  .  H  .  .  .  .  
+.  .  .  .  H  .  .  
+.  .  .  .  .  .  H  
+.  H  .  .  .  .  .  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 18
+.  H  .  .  .  .  .  
+.  .  .  .  H  .  .  
+.  .  H  .  .  .  .  
+H  .  .  .  .  .  .  
+.  .  .  .  .  .  H  
+.  .  .  H  .  .  .  
+.  .  .  .  .  H  .  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 19
+.  H  .  .  .  .  .  
+.  .  .  H  .  .  .  
+.  .  .  .  .  H  .  
+H  .  .  .  .  .  .  
+.  .  H  .  .  .  .  
+.  .  .  .  H  .  .  
+.  .  .  .  .  .  H  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 20
+.  .  .  .  .  H  .  
+.  H  .  .  .  .  .  
+.  .  .  .  H  .  .  
+H  .  .  .  .  .  .  
+.  .  .  H  .  .  .  
+.  .  .  .  .  .  H  
+.  .  H  .  .  .  .  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 21
+.  .  H  .  .  .  .  
+.  .  .  .  .  .  H  
+.  .  .  H  .  .  .  
+H  .  .  .  .  .  .  
+.  .  .  .  H  .  .  
+.  H  .  .  .  .  .  
+.  .  .  .  .  H  .  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 22
+.  .  .  .  .  .  H  
+.  .  .  .  H  .  .  
+.  .  H  .  .  .  .  
+H  .  .  .  .  .  .  
+.  .  .  .  .  H  .  
+.  .  .  H  .  .  .  
+.  H  .  .  .  .  .  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 23
+.  .  .  .  .  H  .  
+.  .  .  H  .  .  .  
+.  .  .  .  .  .  H  
+H  .  .  .  .  .  .  
+.  .  H  .  .  .  .  
+.  .  .  .  H  .  .  
+.  H  .  .  .  .  .  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 24
+.  H  .  .  .  .  .  
+.  .  .  .  .  .  H  
+.  .  .  .  H  .  .  
+.  .  H  .  .  .  .  
+H  .  .  .  .  .  .  
+.  .  .  .  .  H  .  
+.  .  .  H  .  .  .  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 25
+.  H  .  .  .  .  .  
+.  .  .  .  H  .  .  
+.  .  .  .  .  .  H  
+.  .  .  H  .  .  .  
+H  .  .  .  .  .  .  
+.  .  H  .  .  .  .  
+.  .  .  .  .  H  .  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 26
+.  .  .  .  .  .  H  
+.  H  .  .  .  .  .  
+.  .  .  H  .  .  .  
+.  .  .  .  .  H  .  
+H  .  .  .  .  .  .  
+.  .  H  .  .  .  .  
+.  .  .  .  H  .  .  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 27
+.  .  H  .  .  .  .  
+.  .  .  .  .  H  .  
+.  H  .  .  .  .  .  
+.  .  .  .  H  .  .  
+H  .  .  .  .  .  .  
+.  .  .  H  .  .  .  
+.  .  .  .  .  .  H  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 28
+.  .  .  .  .  H  .  
+.  .  H  .  .  .  .  
+.  .  .  .  .  .  H  
+.  .  .  H  .  .  .  
+H  .  .  .  .  .  .  
+.  .  .  .  H  .  .  
+.  H  .  .  .  .  .  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 29
+.  .  .  .  .  H  .  
+.  .  H  .  .  .  .  
+.  .  .  .  H  .  .  
+.  .  .  .  .  .  H  
+H  .  .  .  .  .  .  
+.  .  .  H  .  .  .  
+.  H  .  .  .  .  .  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 30
+.  H  .  .  .  .  .  
+.  .  .  .  .  H  .  
+.  .  H  .  .  .  .  
+.  .  .  .  .  .  H  
+.  .  .  H  .  .  .  
+H  .  .  .  .  .  .  
+.  .  .  .  H  .  .  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 31
+.  .  .  H  .  .  .  
+.  H  .  .  .  .  .  
+.  .  .  .  .  .  H  
+.  .  .  .  H  .  .  
+.  .  H  .  .  .  .  
+H  .  .  .  .  .  .  
+.  .  .  .  .  H  .  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 32
+.  .  H  .  .  .  .  
+.  .  .  .  .  .  H  
+.  H  .  .  .  .  .  
+.  .  .  H  .  .  .  
+.  .  .  .  .  H  .  
+H  .  .  .  .  .  .  
+.  .  .  .  H  .  .  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 33
+.  .  .  .  H  .  .  
+.  .  .  .  .  .  H  
+.  H  .  .  .  .  .  
+.  .  .  .  .  H  .  
+.  .  H  .  .  .  .  
+H  .  .  .  .  .  .  
+.  .  .  H  .  .  .  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 34
+.  .  .  .  H  .  .  
+.  .  .  .  .  .  H  
+.  H  .  .  .  .  .  
+.  .  .  H  .  .  .  
+.  .  .  .  .  H  .  
+H  .  .  .  .  .  .  
+.  .  H  .  .  .  .  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 35
+.  .  .  .  .  .  H  
+.  .  H  .  .  .  .  
+.  .  .  .  .  H  .  
+.  H  .  .  .  .  .  
+.  .  .  .  H  .  .  
+H  .  .  .  .  .  .  
+.  .  .  H  .  .  .  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 36
+.  .  .  H  .  .  .  
+.  .  .  .  .  .  H  
+.  .  .  .  H  .  .  
+.  H  .  .  .  .  .  
+.  .  .  .  .  H  .  
+H  .  .  .  .  .  .  
+.  .  H  .  .  .  .  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 37
+.  .  .  .  H  .  .  
+.  H  .  .  .  .  .  
+.  .  .  .  .  H  .  
+.  .  H  .  .  .  .  
+.  .  .  .  .  .  H  
+.  .  .  H  .  .  .  
+H  .  .  .  .  .  .  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 38
+.  .  .  .  .  H  .  
+.  .  .  H  .  .  .  
+.  H  .  .  .  .  .  
+.  .  .  .  .  .  H  
+.  .  .  .  H  .  .  
+.  .  H  .  .  .  .  
+H  .  .  .  .  .  .  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 39
+.  .  H  .  .  .  .  
+.  .  .  .  H  .  .  
+.  .  .  .  .  .  H  
+.  H  .  .  .  .  .  
+.  .  .  H  .  .  .  
+.  .  .  .  .  H  .  
+H  .  .  .  .  .  .  
+
+Rozmiar planszy: 7
+Rozwi¹zanie 40
+.  .  .  H  .  .  .  
+.  .  .  .  .  .  H  
+.  .  H  .  .  .  .  
+.  .  .  .  .  H  .  
+.  H  .  .  .  .  .  
+.  .  .  .  H  .  .  
+H  .  .  .  .  .  .  
+
+Process finished with exit code 0
