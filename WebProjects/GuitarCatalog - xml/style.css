@@ -1,0 +1,52 @@
+sklep_gitarowy{
+	font-family: Monospace;
+	font-size: 16px;
+}
+#container{
+	background-color: #E8E8E8;
+	font-family: Monospace;
+	font-size:16px;
+	background-size: 80% auto;
+}
+
+nazwa, model {
+	display: block;
+	font-size: 15px;
+	font-weight: bold;
+	color: #352C1B;
+	padding: 10px;
+}
+
+
+img {
+	max-height:500px;
+	max-width:500px;
+}
+opis {
+	display: block;
+	padding: 10px;
+	color: #000000;
+	font-size: 15px;
+	font-weight:bold;
+	word-spacing: 10px;
+	font-family: Monospace;
+	max-width:800px;
+}
+td {
+	border: 3px ridge #F08CC7;
+	padding: 5px 15px 5px 15px;
+}
+cecha {
+	font-weight:bold;
+	font-size: 15px;
+	line-height: 200%;
+	color: #ADAB27;
+}
+stopka {
+	font-size: 14px;
+}
+
+hr{
+	color: white;
+}
+

@@ -1,0 +1,28 @@
+extends layout
+block content
+    p Witaj na stronie naszego katalogu z gitarami.
+    p Zajdują tu się TYLKO trudno dostepne modele.
+    p Jeśli szukasz wyjątkowych gitar, dobrze trafileś.
+
+    div(id="container")
+        - for (var i = 0; i < dane.length; i++)
+            p(class="nazwa") #{dane[i].Brand} #{dane[i].Model}
+            img(src='../images/#{i}/1.jpg')
+            p(class="lies") Cena: #{dane[i].Price} PLN
+            p(class="opis") #{dane[i].Description}
+            p(class="cecha") Korpus: #{dane[i].Body}
+            p(class="cecha") Gryf: #{dane[i].Neck}
+            p(class="cecha") Przetworniki: #{dane[i].Pickups}
+            p(class="cecha") Produkcja: #{dane[i].Made}
+            td <input type="button" onclick="like();" value="Polub gitarę"/>
+            p(class="likes") Polubień: #{dane[i].Likes}
+            hr
+    div(id="stopka")
+        p Autor: Jakub Niżyński
+
+
+
+
+
+
+

@@ -1,0 +1,121 @@
+<?xml-stylesheet type="text/css" href="style.css" version="1.0" encoding="utf-8"?>
+<!DOCTYPE sklep_gitarowy [
+	<!ELEMENT sklep_gitarowy (nazwa, tresc, gitary, stopka)>
+	<!ELEMENT nazwa (#PCDATA)>
+	<!ELEMENT tresc (#PCDATA)>
+	<!ELEMENT gitary (model, cena, opis)>
+		<!ELEMENT model (#PCDATA)>
+		<!ELEMENT cena (#PCDATA)>
+		<!ELEMENT opis (#PCDATA)>
+	<!ATTLIST gitary gitary_id ID #REQUIRED>
+	<!ELEMENT stopka (#PCDATA)>
+]>
+
+
+
+<sklep_gitarowy xmlns="http://www.w3.org/1999/xhtml">
+
+	<nazwa><center><br/><img src="pics/guitars5.jpg"/></center></nazwa>
+	<tresc><br/><center>Witaj na stronie sklepu z gitarami. <br/>Zajdują tu się TYLKO trudno dostepne modele. <br/>Jeśli szukasz wyjątkowej gitary w dobrej cenie, dobrze trafileś.
+	<br/><br/>Aktualnie dostępne:</center></tresc>
+
+<br/>
+<div id="container">
+<center>		
+		<gitary gitary_id="lespaul">
+			<model>Gibson Les Paul<br/></model>
+			<img src="pics/lespaul2.jpg"/>
+			<cena><br/><br/>5200 PLN</cena>
+			<opis>
+
+Gibson Les Paul wyposażony jest w stały mostek Tune-o-Matic oraz Stopbar. Wyjątkiem jest model Axcess - niektóre jego wersje produkowane są z ruchomym mostkiem tremolo.
+Charakterystyczne brzmienie zawdzięcza elektronice oraz drewnu użytemu do produkcji.
+Zazwyczaj korpus oraz gryf zbudowane są z mahoniu, top z klonu a podstrunnica z palisandru 
+- aczkolwiek w niektórych modelach Gibson Les Paul zastosowano m.in. korpusy z koriny, topy z mahoniu czy podstrunnice z przypalanego klonu (baked maple), granadillo lub sztucznego tworzywa richlite (w zastępstwie za heban).
+ Cechą charakterystyczną konstrukcji jest wklejany gryf (tzw. set-in), skala 24-3/4", 22 progi oraz szyjka montowana pod kątem w stosunku do korpusu.
+W zależności od modelu oraz lat produkcji występują różne budowy korpusów; różne grubości i profile gryfów.
+Podstawowe modele Les Paul to: Junior; Studio; Standard; Custom. Na ich bazie powstały alternatywne wersje Les Paul m.in. Studio Faded; Traditonal; Classic; Supreme; Deluxe oraz wiele innych. 
+W 1993r. w nowo otwartym oddziale 'Gibson Custom, Art and Historic' oficjalnie rozpoczęto produkcję reedycji modelu Les Paul, nawiązując do specyfikacji z poszczególnych lat z okresu 1956-1960. 
+Modele te noszą nazwę Historic Reissue Series (potocznie nazywane historykami). W 2004r. przeniesiono ze zwykłej linii produkcyjnej do oddziału 'Gibson Custom, Art and Historic' produkcję modelu Custom.
+
+<cecha><drewno><br/>Korpus: Mahoń<br/>Gryf: Klon</drewno></cecha>
+<cecha><przetworniki><br/>Przetworniki: 2x Humbucker</przetworniki></cecha>
+<cecha><produkcja><br/>Produkcja: U.S.A., 2005'</produkcja></cecha>
+<br/>
+<td>
+			<operacja>
+				<input type="button" onclick="alert('Gibson Les Paul został dodany do Twojego zamówienia')" value="Dodaj do koszyka"/>
+			</operacja>
+			<operacja>
+				<input type="button" onclick="alert('Dziekujemy za wspólne zakupy')" value="Koniec zakupów"/>
+			</operacja>
+		</td>
+</opis>
+		</gitary>
+</center>
+
+<br/><hr/><br/>
+
+<center>
+		<gitary gitary_id="esp">
+			<model>ESP 400 Stratocaster<br/></model>
+			<img src="pics/esp.jpg"/>
+			<cena><br/><br/>3300 PLN</cena>
+			<opis>Korpus gitary Stratocaster wykonany jest z lipy, olchy (obecnie), jesionu (najbardziej cenione modele) lub jesionu bagiennego, niektóre wersje (najczęściej Custom Shop) posiadają klonowy top. 
+			Gryf zwykle wykonany jest z klonu, a podstrunnica z palisandru lub klonu, a w niektórych wersjach z hebanu[1] albo – jak w sygnowanym przez Steviego Raya Vaughana Stratocasterze 
+			– drewna egzotycznego pau ferro (Caesalpinia ferrea). Mostek najczęściej stosowany to ruchome, jednostronne tremolo, pozwalające na obniżenie dźwięku.
+			Stosowano również stały mostek Vintage Hardtail. Rzadko w Stratocasterach występuje mostek typu Floyd Rose. 
+			W wersjach japońskich stosowane są 3 typy dwustronnych mostków ruchomych.
+<cecha><drewno><br/> Korpus: Klon <br/>Gryf: lipa</drewno></cecha>
+<cecha><przetworniki><br/>Przetworniki: 3x single - coil</przetworniki></cecha>
+<cecha><produkcja><br/>Produkcja: Japonia, '87</produkcja></cecha>
+
+<br/>
+<td>
+			<operacja>
+				<input type="button" onclick="alert('ESP 400 został dodany do Twojego zamówienia')" value="Dodaj do koszyka"/>
+			</operacja>
+			<operacja>
+				<input type="button" onclick="alert('Dziękujemy za wspólne zakupy')" value="Koniec zakupów"/>
+			</operacja>
+		</td>
+</opis>
+		</gitary>
+	</center>
+
+<br/><hr/><br/>
+
+	<center>
+	<gitary gitary_id="mustang">
+			<model>Fender Mustang RI69 <br/>
+			<img src="pics/mustang3.jpg"/>
+			</model>
+			
+			<cena><br/>3500 PLN</cena>
+			<opis>Seria I: 1969-1982 
+Wydanie 2 (1969-1982; 1990-do dziś) – pierwszy okres to czas, kiedy firmę Leo Fendera wykupiła CBS. 
+Do gitary zostały dodane niewielkie ulepszenia m.in. tzw. "contour body" – korpus profilowany, a także wersje "competition" z potrójnym paskiem umieszczonym na przednim profilu gitary 
+(rzadko główką w kolorze korpusu). Drugi to okres kiedy gitara zaczęła być używana przez muzyków alternatywnych (głównie z powodu swojej niskiej ceny). 
+Modele z tego okresu były produkowane w Japonii.</opis>
+<cecha><drewno> Korpus: Klon<br/> Gryf: Olcha</drewno></cecha>
+<cecha><przetworniki><br/>Przetworniki: 2x single - coil</przetworniki></cecha>
+<cecha><produkcja><br/>Produkcja: Japonia, '81</produkcja></cecha>
+<br/>
+<td>
+			<operacja>
+				<input type="button" onclick="alert('Fender Mustang został dodany do Twojego zamówienia')" value="Dodaj do koszyka"/>
+			</operacja>
+			<operacja>
+				<input type="button" onclick="alert('Dziekujemy za wspólne zakupy')" value="Koniec zakupów"/>
+			</operacja>
+		</td>
+		</gitary>
+	</center>
+	<br/><br/>
+	</div>
+	<stopka>
+	<center> autor: Jakub Nizynski</center>
+	</stopka>
+	
+	</sklep_gitarowy>
+

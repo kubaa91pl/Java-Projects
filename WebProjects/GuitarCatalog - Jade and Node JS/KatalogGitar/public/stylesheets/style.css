@@ -1,0 +1,71 @@
+
+body {
+    font-family: Monospace;
+	font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+
+}
+#container{
+    background-color: #E8E8E8;
+	font-family: Monospace;
+	font-size:16px;
+	background-size: 80% auto;
+    text-align: center;
+}
+
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+  color: #00B7FF;
+}
+
+p.nazwa {
+    display: block;
+	font-size: 16px;
+	font-weight: bold;
+	color: #352C1B;
+	padding: 10px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+p.opis {
+    padding: 15px;
+    color: #000000;
+	font-size: 15px;
+	font-weight:bold;
+	word-spacing: 10px;
+	font-family: Monospace;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p.cecha{
+    font-weight:bold;
+	font-size: 15px;
+	line-height: 200%;
+	color: #ADAB27;
+}
+hr{
+	color: white;
+}
+
+td {
+	border: 3px ridge #F08CC7;
+	padding: 5px 15px 5px 15px;
+}
+
+p.likes{
+    font-size: 13px;
+}
+
+#stopka{
+    font-size: 10px;
+    max-height: 10px;
+}
