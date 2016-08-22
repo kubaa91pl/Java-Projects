@@ -127,7 +127,7 @@ public class Server {
     
     private void sendMessage(Socket client, String message) throws IOException {
         BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(client.getOutputStream()));
-        writer.write(message);
+        writer.write(message+"\n");
         writer.flush();
         writer.close();
     }

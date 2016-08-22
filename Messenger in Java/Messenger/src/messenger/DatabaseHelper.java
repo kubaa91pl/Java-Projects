@@ -78,13 +78,13 @@ public class DatabaseHelper {
             st.setInt(2, contactId);
             resultSet = st.executeQuery();
             
-//            resultSet = statement.executeQuery(
-//                "SELECT * FROM messenger.message" +
-//                " WHERE FromID = " + SessionContext.getCurrentUserId() +
-//                " AND ToID = " + contactId +
-//                " OR FromID = " + contactId +
-//                " AND ToID = " + SessionContext.getCurrentUserId() +
-//                " ORDER BY CreateDate");
+            resultSet = statement.executeQuery(
+                "SELECT * FROM messenger.message" +
+                " WHERE FromID = " + SessionContext.getCurrentUserId() +
+                " AND ToID = " + contactId +
+                " OR FromID = " + contactId +
+                " AND ToID = " + SessionContext.getCurrentUserId() +
+                " ORDER BY CreateDate");
 
             while(resultSet.next()){
                 Message message = new Message(resultSet.getInt(1), resultSet.getInt(2), resultSet.getTimestamp(3), resultSet.getString(4));
@@ -224,7 +224,7 @@ public class DatabaseHelper {
     
     
     
-    private static String url = "jdbc:mysql://localhost:3306/messenger";
-    private static String user = "root";
-    private static String password = "Kuba123Nizynski123";
+    protected static String url = "jdbc:mysql://localhost:3306/messenger";
+    protected static String user = "root";
+    protected static String password = "Kuba123Nizynski123";
 }

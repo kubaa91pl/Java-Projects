@@ -15,6 +15,9 @@ public class Program {
 
             Login window = new Login();
             window.setVisible(true);
+
+            Registration registration = new Registration();
+            registration.setVisible(true);
             
             SessionContext.setPort(Integer.parseInt(port));
             
@@ -25,7 +28,7 @@ public class Program {
             
             while (true) {
                 Socket client = serverSocket.accept();
-
+                //registration.setVisible(false);
                 String request = readRequest(client);
                 if(request != null && request.isEmpty() == false){
                     String[] command = request.split(";");

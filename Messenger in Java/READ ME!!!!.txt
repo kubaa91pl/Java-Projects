@@ -1,0 +1,3 @@
+By projekt dzialal poprawie dla kazdego nowego klienta trzeba recznie ustawic nowy port w pliku:
+
+Messenger\Messenger\resources\messenger.properties
