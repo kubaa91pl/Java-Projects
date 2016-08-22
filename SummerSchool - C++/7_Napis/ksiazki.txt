@@ -1,0 +1,16 @@
+11	Robert C. Martin	Czysty kod	0	0
+1	John R. R. Tolkien	Druzyna pierscienia	2	0
+2	John R. R. Tolkien	Dwie wieze	3	1
+//4	George R. R. Martin	Gra o tron	5	0
+4	George R. R. Martin	Nawalnica mieczy	7	5
+3	John R. R. Tolkien	Powrot krola	0	2
+5	//George R. R. Martin	Starcie krolow	6	4
+8	George R. R. Martin	Taniec ze smokami	0	7
+9	Bruce Eckel	Thinking in C++ tom1	10	0
+10	/*Bruce Eckel	Thinking in C++ tom2	0	9
+7	George R. R. Martin	Uczta dla wron	8	6
+12	Neal Stephenson	Zamiec	0	0*/
+
+
+
+
